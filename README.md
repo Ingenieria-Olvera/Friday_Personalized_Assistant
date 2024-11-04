@@ -21,4 +21,4 @@ This project has gone through multiple versions, each adding new capabilities an
 - [V4](https://github.com/Ingenieria-Olvera/Friday_Personalized_Assistant/blob/main/Friday_V4.py) (Current): Working on seamless video integration and enhancing interaction quality. Still needs some time to bake in the oven though.
 
 ### **IDEAS & COLLABORATION**
-Have suggestions or know someone working on a similar AI assistant? Feel free to reach out to me at **x@gmail.com**. I’d love to exchange ideas!
+Have suggestions or know someone working on a similar AI assistant? Feel free to reach out to me at **jonnyolv102306@gmail.com**. I’d love to exchange ideas!
