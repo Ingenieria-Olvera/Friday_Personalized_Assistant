@@ -12,7 +12,7 @@ The primary goal for this project is to create an interactive AI assistant capab
 ### **VERSIONS**
 This project has gone through multiple versions, each adding new capabilities and learning experiences. Here’s a look at each version so far:
 
-- [V1](https://github.com/Ingenieria-Olvera/Friday_Personalized_Assistant/blob/main/Friday_v1.py): Basic communication via text, integrating Google’s Gemini AI for responses. The main challenge here was setting up the code, which I solved through YouTube tutorials and trial and error.
+- [V1](https://github.com/Ingenieria-Olvera/Friday_Personalized_Assistant/blob/main/Friday_V1.py): Basic communication via text, integrating Google’s Gemini AI for responses. The main challenge here was setting up the code, which I solved through YouTube tutorials and trial and error.
 
 - [V2](https://github.com/Ingenieria-Olvera/Friday_Personalized_Assistant/blob/main/Friday_V2.py): Verbal communication—Friday can now respond through a voice module, though her voice sounds somewhat robotic. Despite this, I love the personality that emerges with vocal interaction.
 
