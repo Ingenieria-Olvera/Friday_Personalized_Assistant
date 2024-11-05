@@ -91,7 +91,7 @@ async def google():
     )
 
     history = []
-    print("Friday: Hello Jonathan, what project can I help you with today?")
+    print("Friday: Hello __name__, what project can I help you with today?")
 
     while True:
         with sr.Microphone() as source:
