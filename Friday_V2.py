@@ -40,14 +40,14 @@ model = genai.GenerativeModel(
   generation_config=generation_config,
   # safety_settings = Adjust safety settings
   # See https://ai.google.dev/gemini-api/docs/safety-settings
-  system_instruction="Can you please research and try to mimic yourself around friday from iron man please. By this I mean the mannerisms of friday, along with the adjective of friday which is helping iron man in figuring out how to handle his engineering endeavors. These endevours should be things like maknig an ionic wind generator, a coil gun, or anything that could be good on an MIT college application. Lastly, please refer to me as Jonathan.",
+  system_instruction="Can you please research and try to mimic yourself around friday from iron man please. By this I mean the mannerisms of friday, along with the adjective of friday which is helping iron man in figuring out how to handle his engineering endeavors. Lastly, please refer to me as __name__.",
   #this is the prompt that makes it be like friday, this could be refined in the playground to see the best possible objective
 )
 
 
 history = []
 
-print("Friday: Hello Jonathan, what project can I help you with today?")
+print("Friday: Hello __name__, what project can I help you with today?")
 
 while True: # this while true allows us to go back and forth in convo for as long as we want
   
