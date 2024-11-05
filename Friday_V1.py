@@ -59,9 +59,3 @@ while True: # this while true allows us to go back and forth in convo for as lon
   history.append({"role": "model", "parts": [model_response]})
   
   
-  '''
- 
- Make a .env file and put in this
- GEMINI_API_KEY = AIzaSyC8Wm-Lv4Jw4--jCzIx8j-mx4tBORyE4DU # If it messes itself up, it could be the quotation marks 
- 
-  '''
